@@ -4,7 +4,6 @@ const Div = styled.div`
     .roda-pe {
         background-color: #3C6E71;
         margin-top: 50px;
-
         color: #d9d9d9;
     }
 
